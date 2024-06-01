@@ -4,6 +4,11 @@ Note: this changelog is for the shields.io server. The changelog for the badge-m
 
 ---
 
+## server-2024-06-01
+
+- Support optionalDependencies in [GithubPackageJson] [#6749](https://github.com/badges/shields/issues/6749)
+- Dependency updates
+
 ## server-2021-08-01
 
 - use v5 API for [AUR] badges [#6836](https://github.com/badges/shields/issues/6836)
